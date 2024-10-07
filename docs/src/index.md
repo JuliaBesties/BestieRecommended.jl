@@ -4,7 +4,7 @@ CurrentModule = BestieRecommended
 
 # BestieRecommended
 
-Documentation for [BestieRecommended](https://github.com/abelsiqueira/BestieRecommended.jl).
+Documentation for [BestieRecommended](https://github.com/JuliaBesties/BestieRecommended.jl).
 
 ## Contributors
 

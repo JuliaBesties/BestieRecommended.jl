@@ -2,7 +2,7 @@ exclude = [
   "@ref",
   "^https://github.com/.*/releases/tag/v.*$",
   "^https://doi.org/FIXME$",
-  "^https://abelsiqueira.github.io/BestieRecommended.jl/stable$",
+  "^https://JuliaBesties.github.io/BestieRecommended.jl/stable$",
   "zenodo.org/badge/DOI/FIXME$"
 ]
 
