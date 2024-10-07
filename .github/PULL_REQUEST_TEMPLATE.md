@@ -24,7 +24,7 @@ There is no related issue.
 <!-- mark true if NA -->
 <!-- leave PR as draft until all is checked -->
 
-- [ ] I am following the [contributing guidelines](https://github.com/abelsiqueira/BestieRecommended.jl/blob/main/docs/src/90-contributing.md)
+- [ ] I am following the [contributing guidelines](https://github.com/JuliaBesties/BestieRecommended.jl/blob/main/docs/src/90-contributing.md)
 
 - [ ] Tests are passing
 - [ ] Lint workflow is passing

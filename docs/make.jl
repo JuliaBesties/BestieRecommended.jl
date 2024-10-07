@@ -17,12 +17,12 @@ const numbered_pages = [
 makedocs(;
   modules = [BestieRecommended],
   authors = "Abel Soares Siqueira <abel.s.siqueira@gmail.com> and contributors",
-  repo = "https://github.com/abelsiqueira/BestieRecommended.jl/blob/{commit}{path}#{line}",
+  repo = "https://github.com/JuliaBesties/BestieRecommended.jl/blob/{commit}{path}#{line}",
   sitename = "BestieRecommended.jl",
   format = Documenter.HTML(;
-    canonical = "https://abelsiqueira.github.io/BestieRecommended.jl",
+    canonical = "https://JuliaBesties.github.io/BestieRecommended.jl",
   ),
   pages = ["index.md"; numbered_pages],
 )
 
-deploydocs(; repo = "github.com/abelsiqueira/BestieRecommended.jl")
+deploydocs(; repo = "github.com/JuliaBesties/BestieRecommended.jl")
