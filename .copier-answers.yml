@@ -2,12 +2,12 @@
 AnswerStrategy: recommended
 Authors: Abel Soares Siqueira <abel.s.siqueira@gmail.com> and contributors
 CodeOfConductContact: abel.s.siqueira@gmail.com
-Indentation: 2
+JuliaIndentation: 2
 JuliaMinVersion: '1.6'
 License: MIT
 LicenseCopyrightHolders: Abel Soares Siqueira
 PackageName: BestieRecommended
-PackageOwner: abelsiqueira
+PackageOwner: JuliaBesties
 PackageUUID: 49999571-eea7-54eb-9328-55f56e583ba6
-_commit: v0.11.0
+_commit: v0.12.0
 _src_path: https://github.com/JuliaBesties/BestieTemplate.jl
