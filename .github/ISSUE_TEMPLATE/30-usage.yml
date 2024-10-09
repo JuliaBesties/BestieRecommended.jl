@@ -11,12 +11,12 @@ body:
 
         - You have checked the [documentation](https://JuliaBesties.github.io/BestieRecommended.jl) and haven't found enough information
         - There is not an [existing issue](https://github.com/JuliaBesties/BestieRecommended.jl/issues) with the same question
-
+        
         - You have read the [contributing guide](https://JuliaBesties.github.io/BestieRecommended.jl/dev/90-contributing/)
-
-
+        
+        
         - You are following the [code of conduct](https://github.com/JuliaBesties/BestieRecommended.jl/blob/main/CODE_OF_CONDUCT.md)
-
+        
 
         The form below should help you in filling out this issue.
   - type: textarea

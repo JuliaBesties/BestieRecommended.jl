@@ -2,7 +2,7 @@
 AnswerStrategy: recommended
 Authors: Abel Soares Siqueira <abel.s.siqueira@gmail.com> and contributors
 CodeOfConductContact: abel.s.siqueira@gmail.com
-JuliaIndentation: 2
+JuliaIndentation: 4
 JuliaMinVersion: '1.6'
 License: MIT
 LicenseCopyrightHolders: Abel Soares Siqueira

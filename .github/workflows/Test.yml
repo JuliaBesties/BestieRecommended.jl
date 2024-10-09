@@ -31,3 +31,4 @@ jobs:
         arch:
           - x64
         allow_failure: [false]
+        
